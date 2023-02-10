@@ -16,7 +16,7 @@ A password generator that fullfills the criteria given by the user including the
 Extra equipment is not needed to view this project.
 
 ## Usage
-This site provides an automated manner to create passwords at random, and therefore increase their security.
+This site provides an automated manner to create passwords at random, and therefore increase theirgit  security.
 
 ## Project status
 Completed.
@@ -24,4 +24,4 @@ Completed.
 ## Links
 Deployed site: https://shannyan.github.io/three-pwdgen/
 
-Link to Repo: https://github.com/ShannyaN/two-port
+Link to Repo: https://github.com/ShannyaN/three-pwdgen
